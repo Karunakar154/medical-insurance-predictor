@@ -1,27 +1,21 @@
-# 🩺 Medical Insurance Predictor
 
-A machine learning web app that predicts medical insurance charges based on user inputs such as age, BMI, gender, and smoking habits.
+# 💊 Medical Insurance Predictor
 
-## 🚀 How to Run
+A Streamlit web app that predicts medical insurance cost using Machine Learning.
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-🧠 Model Used
+👉 **Try it live here:** [Medical Insurance Predictor App](<your_streamlit_link>)
 
-Random Forest Regressor (trained on the Insurance dataset)
+---
 
-⚙️ Tech Stack
+### 🧠 Features
+- Predicts insurance cost based on user inputs
+- Uses trained Random Forest model
+- Clean and interactive Streamlit UI
 
-Python
-
-Scikit-learn
-
-Streamlit
-
-Pickle
-
-👨‍💻 Author
-
-Karunakar T
-GitHub: karunakar154
+### ⚙️ Tech Stack
+- Python 🐍
+- Streamlit 🎈
+- scikit-learn 🤖
+- Pandas & NumPy 📊
+author:
+karunakar
