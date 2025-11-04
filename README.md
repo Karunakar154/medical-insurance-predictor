@@ -3,7 +3,7 @@
 
 A Streamlit web app that predicts medical insurance cost using Machine Learning.
 
-👉 **Try it live here:** [Medical Insurance Predictor App](<your_streamlit_link>)
+👉 **Try it live here:** [Medical Insurance Predictor App](<https://karunakar154-medical-insurance-predictor-app-rgs5ga.streamlit.app>)
 
 ---
 
